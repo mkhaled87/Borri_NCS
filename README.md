@@ -1,3 +1,5 @@
+Borri_NCS
+=========
 This project is an implementaion of the NCS abstractions as they appeared in the paper:
 
 Alessandro Borri, Giordano Pola, Maria Domenica Di Benedetto,  "A Symbolic Approach to the Design of Nonlinear Networked Control Systems"
